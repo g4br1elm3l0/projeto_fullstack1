@@ -11,7 +11,7 @@ Com o projeto no diretorio você pode rodar com:
 ### `yarn start`
 
 rode o app no modo de desenvolvimento.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+abra [http://localhost:3000](http://localhost:3000) para ver no seu browser.
 
 a pagina irá recarregar quando você fizer mudanças.\
 Você tambem pode ver os erros de Eslint no Console 
